@@ -11,7 +11,7 @@ THEN my default email program opens and populates the TO field of the email with
 WHEN I click on the GitHub username
 THEN that GitHub profile opens in a new tab
 WHEN I start the application
-THEN I am prompted to enter the team manager’s name, employee ID, email address, and office number
+THEN I am prompted to enter the team MANAGER'S name, employee ID, email address, and office number
 WHEN I enter the team manager’s name, employee ID, email address, and office number
 THEN I am presented with a menu with the option to add an engineer or an intern or to finish building my team
 WHEN I select the engineer option
